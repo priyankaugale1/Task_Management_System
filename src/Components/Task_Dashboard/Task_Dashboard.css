@@ -342,6 +342,10 @@ object {
         height: 43px;
         overflow-y: scroll;
     }
+
+    .task-card {
+        width: 100%;
+    }
 }
 
 @media (min-width: 769px) {
